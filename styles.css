@@ -1,0 +1,105 @@
+body {
+  background-color: #85a6b1;
+  font-family: sans-serif;
+  color: white;
+  letter-spacing: 1px;
+  line-height: 1.5;
+  word-spacing: 1px;
+  text-align: center;
+
+
+}
+
+hr {
+  background-color: #85a6b1;
+  border-style: none;
+  border-top-style: dotted;
+  border-top-color: #ffbcbc;
+  width: 3%;
+  border-width: 6px;
+  border-radius: 0;
+}
+
+h1 {
+  color: #fff0f5;
+  text-transform: uppercase;
+  text-shadow: 0 0 3px black;
+  letter-spacing: 4px;
+  font-size: 40px;
+
+
+
+}
+h3 {
+  color: #f8e1f4;
+  text-transform: uppercase;
+  word-spacing: 3px;
+
+  font-size: 20px;
+
+
+}
+h4 {
+  color: #f8e1f4;
+  font-style: italic;
+}
+
+table {
+  border-collapse: collapse;
+  table-layout: auto;
+
+}
+table.center{
+  margin-right: auto;
+  margin-left: auto;
+}
+table#Intro{
+  width: 65%;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+table#Education{
+  width:50%;
+  margin-left:25%;
+  margin-right:20%;
+  text-align: center;
+  padding:25px;
+  border-color: #f8e1f4;
+}
+table#Programming{
+  width:50%;
+  margin-left:25%;
+  margin-right:20%;
+  text-align: center;
+  padding:25px;
+  border-color: #f8e1f4;
+}
+th {
+  height: 50px;
+  text-align: left;
+  padding: 15px;
+  background-color: #65799b;
+  border-style: hidden;
+}
+
+td {
+  height: 30px;
+  text-align: left;
+  vertical-align: middle;
+  padding: 10px;
+}
+tr{
+  border-style: hidden;
+}
+ul{
+
+  list-style-position: inside;
+  text-align: justify;
+  margin-left: 35%;
+  margin-right: 20%
+}
+img {
+  border: 3px solid #65799b;
+  border-radius: 10px;
+  padding: 5px;
+}
