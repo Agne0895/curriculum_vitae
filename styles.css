@@ -98,3 +98,8 @@ ul{
   margin-left: 35%;
   margin-right: 20%
 }
+img {
+  border: 3px solid #65799b;
+  border-radius: 10px;
+  padding: 5px;
+}
